@@ -1,0 +1,18 @@
+{
+  "name": "script",
+  "version": "1.0.0",
+  "description": "creation d'un csv de 1 million de lignes",
+  "main": "script",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Damien",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  },
+  "dependencies": {
+    "faker": "^6.6.6",
+    "uuid": "^9.0.0"
+  }
+}
